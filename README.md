@@ -3,7 +3,7 @@
 
 <h3 align="center">bitwise!</h3>
   <p align="center">
-    An Unefficient Encryption Algorithm
+    An Unefficient Encryption Algorithm written in poorly optimised C code<br> made by the best programmer in the universe
     <br />
     <a href="https://nullcel.com/">Nullcel</a>
     ·
