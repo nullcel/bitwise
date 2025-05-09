@@ -1,13 +1,16 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nullcel/bitwise/refs/heads/main/docs/bitwisejpg.jpg" height="200px">
+<img src="https://raw.githubusercontent.com/nullcel/bitwise/refs/heads/main/docs/bitwisejpg.jpg" height="300px">
 
 <h3 align="center">bitwise!</h3>
   <p align="center">
     An Unefficient Encryption Algorithm
     <br />
-    <a href="https://github.com/onlook-dev/onlook/issues/new">Report Bug</a>
+    <a href="https://nullcel.com/">Nullcel</a>
     ·
-    <a href="https://github.com/onlook-dev/onlook/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/nullcel/bitwise/issues/new">Report Bug</a>
+    ·
+    <a href="https://github.com/nullcel/bitwise/issues/new">Request Feature</a>
+    
   </p>
 </div>
 
